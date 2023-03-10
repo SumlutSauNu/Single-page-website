@@ -1,0 +1,32 @@
+{
+   "products": [
+      {
+         "name": "Blueberry",
+         "imgPath": "img/products/blueberry.jpg",
+         "detailsPage": "blueberry_details",
+         "price": 5.5,
+         "id":1
+      },
+      {
+         "name": "Avocado",
+         "imgPath": "img/products/Avocado.jpg",
+         "detailsPage": "Avocado_details",
+         "price": 3.5,
+         "id":2
+      },
+      {
+         "name": "Tomato",
+         "imgPath": "img/products/Tomato.jpg",
+         "detailsPage": "Tomato_details",
+         "price": 2.5,
+         "id":3
+      },
+      {
+         "name": "Cucumber",
+         "imgPath": "img/products/Cucumber.jpg",
+         "detailsPage": "Cucumber_details",
+         "price": 4.5,
+         "id":4
+      }
+  ]
+  }
